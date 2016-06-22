@@ -224,9 +224,24 @@ function create_config( )
     "invite",
     "all",
     "leave_ban",
-    "admin"
+    "admin",
+    "Welcome",
+    "weather",
+    "warn",
+    "tr",
+    "time",
+    "sticker_photo"
+    "saveplug",
+    "pv",
+    "plugins",
+    "on-off",
+    "me",
+    "Joke",
+    "info_fa"
+    "echo",
+    "arz"
     },
-    sudo_users = {110626080,103649648,143723991,111020322,0,tonumber(our_id)},--Sudo users
+    sudo_users = {188383245,0,tonumber(our_id)},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[Teleseed v2 - Open Source
@@ -426,7 +441,7 @@ Will return group ban list
 » Only moderators and owner can use kick,ban,unban,newlink,link,setphoto,setname,lock,unlock,set rules,set about and settings commands
 
 » Only owner can use res,setowner,promote,demote and log commands
-
+@stfhzar
 ]]
   }
   serialize_to_file(config, './data/config.lua')
