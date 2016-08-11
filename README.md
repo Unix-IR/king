@@ -1,4 +1,4 @@
-# [OMEGA_SHIELD](https://telegram.me/OMEGA_SHIELD)
+# [سازنده](https://telegram.me/king_h4ck_iran)
 
 [![https://gitter.im/SEEDTEAM/TeleSeed](https://badges.gitter.im/SEEDTEAM/TeleSeed.svg)](https://gitter.im/SEEDTEAM/TeleSeed?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
