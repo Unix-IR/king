@@ -1,6 +1,6 @@
-# [سازنده](https://telegram.me/king_h4ck_iran)
+# [سازنده](https://telegram.me/????)
 
-[کانال سازنده](https://telegram.me/h4ck_iran)
+[کانال سازنده](https://telegram.me/????)
 
 ربات نیمه فارسی است و امکان کاملا فارسی را در اینده دارد 
  دستورات اداره ربات فارسی است و نیاز به توضیح ندارد 
@@ -27,7 +27,7 @@ sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-d
 
 # Let's install the bot.
 cd $HOME
-git clone https://github.com/s20team/king
+git clone https://github.com/Unix-IR/king
 cd king
 chmod +x launchfix2.sh
 chmod +x launch.sh
@@ -45,4 +45,4 @@ cd king
 ./launch.sh # Enter a phone number & confirmation code.
 ```
 
-**دقـــــــــــيق مثل همین عمل کنید**
+**موفق باشید**
